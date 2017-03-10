@@ -8,7 +8,7 @@ You can download Platformer2D with the link below (windows build available soon)
 * http://bit.ly/Platformer2D_build_macos
 
 ## preview
-<iframe src="//giphy.com/embed/3o7bu2zHAYssNK7Hwc" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/3o7bu2zHAYssNK7Hwc">via GIPHY</a></p>
+![](http://giphy.com/gifs/3o7bu2zHAYssNK7Hwc)
 ![](https://media.giphy.com/media/xUPGcFnINHwx2fKxoI/giphy.gif)
 
 ## Contact & contribute
