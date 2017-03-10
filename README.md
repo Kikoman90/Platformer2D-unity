@@ -19,11 +19,11 @@ You can download Platformer2D with the link below (windows build available soon)
 <table width="100%">
 <thead>
 <tr>
-<td width="75%" height="60px" align="center" cellpadding="0">
+<td width="65%" height="60px" align="center" cellpadding="0">
 <strong>Description</strong>
 </td>
 <td width="25%" align="center" cellpadding="0">
-<span style="width:25px">&nbsp;</span><strong>Key(s)</strong><span style="width:100px">&nbsp;</span>
+<span style="width:70px">&nbsp;</span><strong>Key(s)</strong><span style="width:50px">&nbsp;</span>
 </td>
 </tr>
 </thead>
