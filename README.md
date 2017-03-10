@@ -23,26 +23,26 @@ You can download Platformer2D with the link below (windows build available soon)
 <strong>Description</strong>
 </td>
 <td width="20%" align="center" cellpadding="0">
-<span style="width:70px">&nbsp;</span><strong>Key(s)</strong><span style="width:40px">&nbsp;</span>
+<span style="width:70px">&nbsp;</span><strong>Key(s)</strong><span style="width:60px">&nbsp;</span>
 </td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td valign="top" height="30px">Switch between players (red/yellow/blue)</td>
+<td valign="top" height="30px">switch between players (red/yellow/blue)</td>
 <td valign="top" align="center"><kbd>&nbsp;1&nbsp;</kbd> <kbd>&nbsp;2&nbsp;</kbd> <kbd>&nbsp;3&nbsp;</kbd></td>
 </tr>
 <tr>
 <td valign="top" height="30px">move</td>
-<td valign="top" align="center"><kbd>&nbsp;◄&nbsp;</kbd> <kbd>&nbsp;►2&nbsp;</kbd></td>
+<td valign="top" align="center"><kbd>&nbsp;◄&nbsp;</kbd> <kbd>&nbsp;►&nbsp;</kbd></td>
 </tr>
 <tr>
 <td valign="top" height="30px">jump</td>
 <td valign="top" align="center"><kbd>&nbsp;space&nbsp;</kbd> <kbd>&nbsp;▲&nbsp;</kbd></td>
 </tr>
 <tr>
-<td valign="top" height="30px">Global view camera</td>
-<td valign="top" align="center">hold <kbd>&nbsp;shift&nbsp;</kbd></td>
+<td valign="top" height="30px">global view camera (hold key)</td>
+<td valign="top" align="center"><kbd>&nbsp;shift&nbsp;</kbd></td>
 </tr>
 <tr>
 <td valign="top" height="30px">reset level</td>
