@@ -10,8 +10,8 @@ You can download Platformer2D with the link below (windows build available soon)
 
 ## preview
 
-<div width="100%">
-  <img style="margin: 0 auto; width: 70%;" src="https://media.giphy.com/media/xUPGcqZngoQVf7p4J2/giphy.gif"/>
+<div width="100%" align="center">
+  <img width="65%" src="https://media.giphy.com/media/xUPGcqZngoQVf7p4J2/giphy.gif"/>
 </div>
 
 ![](https://media.giphy.com/media/xUPGcqZngoQVf7p4J2/giphy.gif)
