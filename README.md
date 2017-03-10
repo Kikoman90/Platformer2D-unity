@@ -10,12 +10,50 @@ You can download Platformer2D with the link below (windows build available soon)
 
 ## preview
 
-<iframe src="//giphy.com/embed/xUPGcqZngoQVf7p4J2" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/xUPGcqZngoQVf7p4J2">via GIPHY</a></p>
 ![](https://media.giphy.com/media/xUPGcqZngoQVf7p4J2/giphy.gif)
-<iframe src="//giphy.com/embed/3o7bu2zHAYssNK7Hwc" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/3o7bu2zHAYssNK7Hwc">via GIPHY</a></p>
 ![](https://media.giphy.com/media/3o7bu2zHAYssNK7Hwc/giphy.gif)
-<iframe src="//giphy.com/embed/xUPGco2fIFsmlhMbCM" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/xUPGco2fIFsmlhMbCM">via GIPHY</a></p>
 ![](https://media.giphy.com/media/xUPGco2fIFsmlhMbCM/giphy.gif)
+
+## How to play
+
+<table width="100%">
+<thead>
+<tr>
+<td width="65%" height="60px" align="center" cellpadding="0">
+<strong>Description</strong>
+</td>
+<td width="10%" align="center" cellpadding="0">
+<span style="width:70px">&nbsp;</span><strong>Key(s)</strong><span style="width:50px">&nbsp;</span>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" height="30px">Switch between players (red/yellow/blue)</td>
+<td valign="top" align="center"><kbd>&nbsp;1&nbsp;</kbd> <kbd>&nbsp;2&nbsp;</kbd> <kbd>&nbsp;3&nbsp;</kbd></td>
+</tr>
+<tr>
+<td valign="top" height="30px">move</td>
+<td valign="top" align="center"><kbd>&nbsp;◄&nbsp;</kbd> <kbd>&nbsp;►2&nbsp;</kbd></td>
+</tr>
+<tr>
+<td valign="top" height="30px">jump</td>
+<td valign="top" align="center"><kbd>&nbsp;space&nbsp;</kbd> <kbd>&nbsp;▲&nbsp;</kbd></td>
+</tr>
+<tr>
+<td valign="top" height="30px">Global view camera</td>
+<td valign="top" align="center">hold <kbd>&nbsp;shift&nbsp;</kbd></td>
+</tr>
+<tr>
+<td valign="top" height="30px">reset level</td>
+<td valign="top" align="center"><kbd>&nbsp;R&nbsp;</kdb></td>
+</tr>
+<tr>
+<td valign="top" height="30px">load next level</td>
+<td valign="top" align="center"><kbd>&nbsp;N&nbsp;</kdb></td>
+</tr>
+</tbody>
+</table>
 
 ## Contact & contribute
 
