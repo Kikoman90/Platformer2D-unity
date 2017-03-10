@@ -22,6 +22,10 @@ You can download Platformer2D with the link below (windows build available soon)
   <img width="65%" src="https://media.giphy.com/media/xUPGco2fIFsmlhMbCM/giphy.gif"/>
 </div>
 
+<div width="100%" align="center">
+  <img width="65%" src="https://media.giphy.com/media/xUPGcFnINHwx2fKxoI/giphy.gif"/>
+</div>
+
 ## How to play
 
 <table width="100%">
